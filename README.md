@@ -94,7 +94,7 @@ Si deseas eliminar o editar un propietario creado, puedes acceder a la vista uti
 De esta manera, puedes gestionar los predios y propietarios de manera eficiente a través de la API.
 
 ## Notas adicionales.
-Se ha creado una guia con imagenes en drive para tener mayor claridad y/o despejar dudas, esta viene incluida en el repositorio con el nombre de `guia_de_uso_basic.pdf`
+Se ha creado una guia con imagenes en el repositorio para tener mayor claridad y/o despejar dudas, esta viene incluida en el repositorio con el nombre de `guia_de_uso_basic.pdf`
 
 ## Script de extracción de códigos de anotaciones
 
