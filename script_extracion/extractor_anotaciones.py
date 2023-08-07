@@ -50,7 +50,13 @@ def retorno_data(nombre_json):
         return None
 
 if __name__ == "__main__":
+    # Define el nombre del archivo JSON que se va a procesar
     nombre_json = 'script_extracion/archivos_analizar/132-22359.json'
+    
+    # Llama a la función retorno_data para procesar el archivo JSON y obtener los datos procesados
     data_procesada = retorno_data(nombre_json)
+    
+    # Verifica si la función retorno_data ha devuelto datos procesados
     if data_procesada is not None:
+        # Imprime los datos procesados en formato JSON con sangría para una mejor presentación
         print(json.dumps(data_procesada, indent=4))
