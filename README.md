@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
   h2 {
     color: #5DADE2;
   }
@@ -6,8 +6,7 @@
   h1{
     color:#00C000 
   }
-  
-</style>
+</style> -->
 
 
 # APLICACIÓN GESTION DE PREDIOS & PROPIETARIOS
